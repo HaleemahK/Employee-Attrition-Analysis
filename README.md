@@ -31,7 +31,7 @@ To maximize strategic values, this analysis was framed from the perspective of H
 
 # Dataset Overview
 
-This dataset contains **3000 employees details** it captures detailed informations like gender, race, marital description,age, job function and so on making it suitable for analysis
+This dataset contains **3000 employees** it captures detailed informations like gender, race, marital description,age, job function and so on making it suitable for analysis
 
 - **Employee ID** -Unique identifer for each employee
 - **Full name** - Name of employee
