@@ -19,15 +19,15 @@ This project addresses this challenges by transforming raw retail transaction re
 
 To maximize strategic values, this analysis was framed from the perspective of Human resource managers.
 
-•	What is the gender, race, and age distribution of employees across different business units? 
-•	Which departments have the highest concentration of employees from specific demographic groups? 
-•	What is the average employee tenure based on age groups and employee classification types? 
-•	What percentage of employees have exited the company over the last year? 
-•	What are the top reasons for employee exits (resignation, involuntary termination, retirement)? 
-•	Which job titles and pay zones have the highest turnover rates? 
-•	Which departments have the highest employee attrition rates? 
-•	Are certain divisions experiencing more involuntary terminations than others? 
-•	What is the average tenure per job function? 
+-	What is the gender, race, and age distribution of employees across different business units? 
+-	Which departments have the highest concentration of employees from specific demographic groups? 
+-	What is the average employee tenure based on age groups and employee classification types? 
+-	What percentage of employees have exited the company over the last year? 
+-	What are the top reasons for employee exits (resignation, involuntary termination, retirement)? 
+-	Which job titles and pay zones have the highest turnover rates? 
+-	Which departments have the highest employee attrition rates? 
+-	Are certain divisions experiencing more involuntary terminations than others? 
+-	What is the average tenure per job function? 
 
 # Dataset Overview
 
