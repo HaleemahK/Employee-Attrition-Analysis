@@ -203,7 +203,7 @@ The analysis of the employee attrition provided various insights into Workforce 
 - Software engineering leads in high performance followed by sales while Admin office has low performances rating.
 - High tenure in functional roles such as services and supports shows employees stability and engagement.
   
-## Reccomendations:
+## Recomendations:
 
 Based on the analyis, the following recommendations can help to improve retention, optimize staffing, and enhance employee satisfaction. 
 
