@@ -59,9 +59,9 @@ To ensure accuracy and usuability, the dataset undewent a series of **cleaning a
 - Created a column to group performance rating.
 - Loaded the cleaned dataset into **Excel** for pivot chart modeling.
 
-  #Measures (DAX)
+# Measures (DAX)
 **Description**
-  Contains calculated measures created using ** DAX in power Pivot** to define key KPIs and evaluate employee performance. These measures form the backbone of the dashboard, providing insights into attrition rate, retention rate, reason for turnover.
+  Contains calculated measures created using **DAX in power Pivot** to define key KPIs and evaluate employee performance. These measures form the backbone of the dashboard, providing insights into attrition rate, retention rate, reason for turnover.
   
 **Fields**
   - Total number of employees
@@ -98,12 +98,12 @@ This KPIs helps the HR team and the decision makers understand the dynamic of th
 
 ## Visuals
 
-- ** Gender Distribution (Pie Chart):** It represents the gender distributions( Male, Female) making it easy to indentify distribution of gender in the organization.
-- ** Age Distribution (Bar Chart):** It represent the age groups( Under 25, 25-34, 35-44, 45-55, Above 55) making it easy to identify  various age groups.
-- ** Race Distribution (Coloumn Chart):** It represents different race( Asian, White, Black, Others, Hispanic) making it easy to identify various races.
-- ** Age Group & Employee Classification by Average Tenure ( Clustered Bar Chart):** It represnts various age groups and the classification of employees across the averge tenure.
-- ** Attrition Rate ( Line Chart):** It represents the percentage of employess that exited over the years.
-- ** Retention Rate (Line Chart):** It represents the percentage of employees that stayed over the years.
+- **Gender Distribution (Pie Chart):** It represents the gender distributions( Male, Female) making it easy to indentify distribution of gender in the organization.
+- **Age Distribution (Bar Chart):** It represent the age groups( Under 25, 25-34, 35-44, 45-55, Above 55) making it easy to identify  various age groups.
+- **Race Distribution (Coloumn Chart):** It represents different race( Asian, White, Black, Others, Hispanic) making it easy to identify various races.
+- **Age Group & Employee Classification by Average Tenure ( Clustered Bar Chart):** It represnts various age groups and the classification of employees across the averge tenure.
+- **Attrition Rate ( Line Chart):** It represents the percentage of employess that exited over the years.
+- **Retention Rate (Line Chart):** It represents the percentage of employees that stayed over the years.
 
  ## Slicers: Gender, Age Group and Year
 
@@ -189,9 +189,9 @@ The analysis of the employee attrition provided various insights into Workforce 
 
 - **Average employee rating –** *2.97*
 - Performance distribution for active employee
-- **High-12.36%**
-- **Medium-78.84%**
-- **Low-8.79%**
+- **High-** *12.36%*
+- **Medium-** *78.84%*
+- **Low-** *8.79%*
 - 
 **Performance by contract type and pay zone**
   
