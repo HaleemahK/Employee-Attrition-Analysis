@@ -71,7 +71,7 @@ To ensure accuracy and usuability, the dataset undewent a series of **cleaning a
   - Average age(yrs)
 
 **Purpose:**
-Is helps HR team develop strategies to improve retention, optimize staffing, and enhance employee satisfaction.
+This is to help HR team develop strategies to improve retention, optimize staffing, and enhance employee satisfaction.
 
 # Data Analysis and Visualization
 
