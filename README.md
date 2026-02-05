@@ -100,7 +100,7 @@ This KPIs helps the HR team and the decision makers understand the dynamic of th
 
 - **Gender Distribution (Pie Chart):** It represents the gender distributions( Male, Female) making it easy to indentify distribution of gender in the organization.
 - **Age Distribution (Bar Chart):** It represent the age groups( Under 25, 25-34, 35-44, 45-55, Above 55) making it easy to identify  various age groups.
-- **Race Distribution (Coloumn Chart):** It represents different race( Asian, White, Black, Others, Hispanic) making it easy to identify various races.
+- **Race Distribution (Column Chart):** It represents different race( Asian, White, Black, Others, Hispanic) making it easy to identify various races.
 - **Age Group & Employee Classification by Average Tenure ( Clustered Bar Chart):** It represnts various age groups and the classification of employees across the averge tenure.
 - **Attrition Rate ( Line Chart):** It represents the percentage of employess that exited over the years.
 - **Retention Rate (Line Chart):** It represents the percentage of employees that stayed over the years.
