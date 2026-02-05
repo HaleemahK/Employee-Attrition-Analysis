@@ -87,7 +87,7 @@ Analyze the worforce demographic( gender,race and race distribution), and the pe
 
 - **Total Headcount:** This represents the total number of employees
 - **Active Employees:** The total number of employees still present in the organization.
-- **Inactive Employees:** The total number of employees tat has exited the organization.
+- **Inactive Employees:** The total number of employees that has exited the organization.
 - **Avearge Age:** The average age for the employees
 - **Attrition rate:** The  percentage of employees that left the organization.
 - **Retention rate:** The percentage of employees that stayed with the organization.
