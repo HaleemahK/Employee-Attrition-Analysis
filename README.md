@@ -13,11 +13,11 @@ It purpose is to uncover insights in Employee Retention and Workforce Optimizati
 # Problem Statement
 The company is experiencing workforce attrition, with employees leaving due to resignations, retirements, and involuntary terminations. HR needs to analyse key factors affecting employee retention and workforce stability. By understanding trends in employee tenure, termination reasons, performance ratings, and pay zones, HR can develop strategies to improve retention, optimize staffing, and enhance employee satisfaction. 
 
-This project addresses this challenges by transforming raw retail transaction records into meaningful insights through the use of **Excel** and **Power Query**, the analysis highlights workforce demograpics, diversity, employee retention, employee attrition, Job performance and job function.
+This project addresses this challenges by transforming Employee data into meaningful insights through the use of **Excel** and **Power Query**, the analysis highlights workforce demograpics, diversity, employee retention, employee attrition, Job performance and job function.
 
 # Key Posing Business Questions
 
-To maximize strategic values, this analysis was framed from the perspective of Human resource managers.
+To maximize strategic values, this analysis was framed from the perspective of Human resource managers. The following questions guided the KPIs, measures, and dashboard design:
 
 -	What is the gender, race, and age distribution of employees across different business units? 
 -	Which departments have the highest concentration of employees from specific demographic groups? 
@@ -47,7 +47,7 @@ This dataset contains **3000 employees** it captures detailed informations like 
 - **Marital desciption** - The marital status of each employee
 
 # Data Preparation
-To ensure accuracy and usuability, the dataset undewent a series of **cleaning and tranformation steps** before analysis. This process was carried into **Excel** and **Power Query** focusing on recovering inconsistencies, deriving new fields and preparing the data for visualization.
+To ensure accuracy and usuability, the dataset undewent a series of **cleaning and tranformation steps** before analysis. This process was carried into **Excel** and **PowerBI** focusing on recovering inconsistencies, deriving new fields and preparing the data for visualization.
 
 ### Key Steps taken
 - Extracted date component(Year)
